@@ -1,0 +1,6 @@
+D:\vs\foodManageSystem\FoodSystemSolution\FoodEntity\bin\Debug\FoodEntity.dll
+D:\vs\foodManageSystem\FoodSystemSolution\FoodEntity\bin\Debug\FoodEntity.pdb
+D:\vs\foodManageSystem\FoodSystemSolution\FoodEntity\obj\Debug\FoodEntity.csproj.AssemblyReference.cache
+D:\vs\foodManageSystem\FoodSystemSolution\FoodEntity\obj\Debug\FoodEntity.csproj.CoreCompileInputs.cache
+D:\vs\foodManageSystem\FoodSystemSolution\FoodEntity\obj\Debug\FoodEntity.dll
+D:\vs\foodManageSystem\FoodSystemSolution\FoodEntity\obj\Debug\FoodEntity.pdb

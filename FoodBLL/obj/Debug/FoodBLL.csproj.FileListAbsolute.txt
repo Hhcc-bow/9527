@@ -1,0 +1,13 @@
+D:\vs\foodManageSystem\FoodSystemSolution\FoodBLL\bin\Debug\FoodBLL.dll
+D:\vs\foodManageSystem\FoodSystemSolution\FoodBLL\bin\Debug\FoodBLL.pdb
+D:\vs\foodManageSystem\FoodSystemSolution\FoodBLL\obj\Debug\FoodBLL.csproj.AssemblyReference.cache
+D:\vs\foodManageSystem\FoodSystemSolution\FoodBLL\obj\Debug\FoodBLL.csproj.CoreCompileInputs.cache
+D:\vs\foodManageSystem\FoodSystemSolution\FoodBLL\obj\Debug\FoodBLL.dll
+D:\vs\foodManageSystem\FoodSystemSolution\FoodBLL\obj\Debug\FoodBLL.pdb
+D:\vs\foodManageSystem\FoodSystemSolution\FoodBLL\bin\Debug\FoodDll.dll
+D:\vs\foodManageSystem\FoodSystemSolution\FoodBLL\bin\Debug\FoodEntity.dll
+D:\vs\foodManageSystem\FoodSystemSolution\FoodBLL\bin\Debug\MySql.Data.dll
+D:\vs\foodManageSystem\FoodSystemSolution\FoodBLL\bin\Debug\FoodDll.pdb
+D:\vs\foodManageSystem\FoodSystemSolution\FoodBLL\bin\Debug\FoodEntity.pdb
+D:\vs\foodManageSystem\FoodSystemSolution\FoodBLL\bin\Debug\MySql.Data.xml
+D:\vs\foodManageSystem\FoodSystemSolution\FoodBLL\obj\Debug\FoodBLL.csproj.Up2Date
